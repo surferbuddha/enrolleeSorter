@@ -1,0 +1,17 @@
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter.deps.json
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter.runtimeconfig.json
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter.runtimeconfig.dev.json
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter.dll
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/ref/enrolleeSorter.dll
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/enrolleeSorter.pdb
+/home/elijah/Desktop/enrolleeSorter/bin/Debug/net5.0/Microsoft.Office.Interop.Excel.dll
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.csproj.AssemblyReference.cache
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.GeneratedMSBuildEditorConfig.editorconfig
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.AssemblyInfoInputs.cache
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.AssemblyInfo.cs
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.csproj.CoreCompileInputs.cache
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.dll
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/ref/enrolleeSorter.dll
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.pdb
+/home/elijah/Desktop/enrolleeSorter/obj/Debug/net5.0/enrolleeSorter.genruntimeconfig.cache
